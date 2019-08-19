@@ -20,7 +20,7 @@ CHAT_ID=your_chat_id
 ```
 > [How to create a bot in telegram](https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/)
 
-> How to get the chat id: send `/echo` to [https://t.me/toxblh_bot](t.me/toxblh_bot) chat.id this what you need
+> How to get the chat id: send `/echo` to [t.me/toxblh_bot](https://t.me/toxblh_bot) chat.id this what you need
 
 # Docker way
 
