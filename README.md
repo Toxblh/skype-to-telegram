@@ -20,6 +20,8 @@ CHAT_ID=your_chat_id
 
 # Docker way
 
+[![Docker Hub](http://dockeri.co/image/toxblh/skype-to-telegram)](https://cloud.docker.com/u/toxblh/repository/docker/toxblh/skype-to-telegram)
+
 ```shell
 docker run --env-file .env toxblh/skype-to-telegram
 ```
