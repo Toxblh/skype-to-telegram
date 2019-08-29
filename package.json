@@ -4,9 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^8.0.0",
+    "dotenv": "^8.1.0",
     "node-telegram-bot-api": "^0.30.0",
-    "skype-http": "^0.0.15"
+    "skype-http": "^0.0.15",
+    "typescript": "^3.6.2"
   },
   "scripts": {
     "postinstall": "rm ./node_modules/kryo/types/document.ts",
@@ -16,7 +17,6 @@
   "devDependencies": {
     "@types/dotenv": "^6.1.1",
     "@types/node-telegram-bot-api": "^0.31.0",
-    "tslint": "^5.18.0",
-    "typescript": "^3.5.3"
+    "tslint": "^5.19.0"
   }
 }

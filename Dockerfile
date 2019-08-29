@@ -1,10 +1,10 @@
-FROM node:lts
+FROM node:lts-alpine
 
 WORKDIR /code
 
 COPY package.json yarn.lock ./
 
-RUN yarn --pure-filelock
+RUN yarn --pure-filelock --production
 
 COPY . .
 
