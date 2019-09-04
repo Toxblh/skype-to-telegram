@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="425px" src="./images/SkypeToTelegram.png" />
+    <img width="425px" src="https://github.com/Toxblh/skype-to-telegram/blob/master/images/SkypeToTelegram.png" />
 </p>
 
 # Skype to Telegram bot
