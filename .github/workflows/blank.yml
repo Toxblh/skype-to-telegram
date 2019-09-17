@@ -1,0 +1,16 @@
+name: Publish in Github Docker
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Publish to Registry
+      uses: toxblh/skype-to-telegram @master
+      with:
+        name: docker.pkg.github.com/toxblh/skype-to-telegram 
+        username: ${{ secrets.DOCKER_GITHUB_USERNAME }}
+        password: ${{ secrets.DOCKER_GITHUB_PASSWORD }}
+        registry: docker.pkg.github.com
