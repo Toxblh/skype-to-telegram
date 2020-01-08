@@ -3,3 +3,5 @@ services:
   skype-bot:
     build: .
     restart: always
+    log_opt:
+      max-size: 10m
