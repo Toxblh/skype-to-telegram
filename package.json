@@ -4,10 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^8.1.0",
-    "node-telegram-bot-api": "^0.30.0",
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.50.0",
     "skype-http": "^0.0.15",
-    "typescript": "^3.6.2"
+    "typescript": "^3.9.7"
   },
   "scripts": {
     "postinstall": "rm ./node_modules/kryo/types/document.ts",
@@ -15,8 +15,8 @@
     "watch": "tsc --watch"
   },
   "devDependencies": {
-    "@types/dotenv": "^6.1.1",
-    "@types/node-telegram-bot-api": "^0.31.0",
-    "tslint": "^5.19.0"
+    "@types/dotenv": "^8.2.0",
+    "@types/node-telegram-bot-api": "^0.50.2",
+    "tslint": "^6.1.3"
   }
 }
