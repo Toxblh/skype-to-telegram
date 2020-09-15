@@ -56,10 +56,10 @@
   resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.138.tgz#34f52640d7358230308344e579c15b378d91989e"
   integrity sha512-A4uJgHz4hakwNBdHNPdxOTkYmXNgmUAKLbXZ7PKGslgeV0Mb8P3BlbYfPovExek1qnod4pDfRbxuzcVs3dlFLg==
 
-"@types/node-telegram-bot-api@^0.50.2":
-  version "0.50.2"
-  resolved "https://registry.yarnpkg.com/@types/node-telegram-bot-api/-/node-telegram-bot-api-0.50.2.tgz#b25b83f39e4f869b4322b1c709aa92fb0256f5c5"
-  integrity sha512-/kXQQd9UcFDqcOBPSL3qzRjhhzDoOxYDaiT4JLf78D5r05kXqyc6NNjTtRKOpFHGmh7Y6CY3gcHuIMFCUFpb1w==
+"@types/node-telegram-bot-api@^0.50.3":
+  version "0.50.3"
+  resolved "https://registry.yarnpkg.com/@types/node-telegram-bot-api/-/node-telegram-bot-api-0.50.3.tgz#1bb190137399e26af874b4015191d946dd698f85"
+  integrity sha512-ANBR2YEtGOTDIhrSqyLTcwXCapM8yx+giBec1pKsPpj9BJ4WFYIcJcRf3njVSuMjGk18XV6DKic1W+74Jt9evA==
   dependencies:
     "@types/node" "*"
     "@types/request" "*"
