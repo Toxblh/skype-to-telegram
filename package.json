@@ -7,7 +7,7 @@
     "dotenv": "^8.2.0",
     "node-telegram-bot-api": "^0.50.0",
     "skype-http": "^0.0.15",
-    "typescript": "^4.0.2"
+    "typescript": "^4.0.3"
   },
   "scripts": {
     "postinstall": "rm ./node_modules/kryo/types/document.ts",
