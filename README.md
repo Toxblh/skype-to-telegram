@@ -45,3 +45,15 @@ yarn
 yarn build
 node dist/index.js
 ```
+
+Troubleshooting
+
+If you see in the log that at the start like that
+```skype-bot_1  | (node:1) UnhandledPromiseRejectionWarning: MicrosoftAccountLogin: Unable to login with MicrosoftAccount.
+skype-bot_1  |   caused by GetLiveToken: Unable to get the Live token for Skype
+skype-bot_1  |   caused by LiveTokenNotFound: Unable to find the Live token. This token is normally found in the HTML response as the value of the element with the id```
+
+You need to open https://web.skype.com/
+Login once and on question about dont exit from system answer "yes" and remember
+
+Next to restart the docker

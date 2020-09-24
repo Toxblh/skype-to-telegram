@@ -3,5 +3,8 @@ services:
   skype-bot:
     build: .
     restart: always
-    log_opt:
-      max-size: 10m
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10M"
+        max-file: "10"
