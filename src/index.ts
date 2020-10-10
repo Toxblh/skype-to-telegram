@@ -1,6 +1,6 @@
 import * as dotenv from 'dotenv'
 import TelegramBot from 'node-telegram-bot-api'
-import { connect } from '@toxblh/skype-http'
+import { connect } from 'skype-http-api'
 import { cleanSkypeMessage, getFileFromSkype } from './utils'
 
 dotenv.config()

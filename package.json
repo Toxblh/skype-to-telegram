@@ -4,13 +4,12 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@toxblh/skype-http": "git+https://github.com/Toxblh/skype-http",
     "dotenv": "^8.2.0",
     "node-telegram-bot-api": "^0.50.0",
+    "skype-http-api": "^0.0.1",
     "typescript": "^4.0.3"
   },
   "scripts": {
-    "postinstall": "rm ./node_modules/kryo/types/document.ts",
     "build": "tsc",
     "watch": "tsc --watch"
   },
