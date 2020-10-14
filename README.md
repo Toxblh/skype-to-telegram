@@ -4,6 +4,8 @@
 
 # Skype to Telegram bot
 
+## Important. MS change auth flow and at current moment it's doesn't work. But you can to help to fix login flow here https://github.com/Toxblh/skype-http-api/blob/master/src/lib/providers/microsoft-account.ts
+
 Your skype inside the telegram
 
 You can start the bot with use [Docker](#Docker-way) or [your machine](#Manual-way)
