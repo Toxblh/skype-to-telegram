@@ -64,10 +64,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/node-telegram-bot-api@^0.51.2":
-  version "0.51.2"
-  resolved "https://registry.yarnpkg.com/@types/node-telegram-bot-api/-/node-telegram-bot-api-0.51.2.tgz#ab9a71a2d3d03a3ea4759a958ac19980bec94950"
-  integrity sha512-4c8bE19MX7DVJfnn/d6el/OeCnPWb5Anc7F6MXKYpEBr4+Kqe3VubKTaBgGEzfQyVRSZOAp9mQ/KkOYKn+R8rw==
+"@types/node-telegram-bot-api@^0.51.3":
+  version "0.51.3"
+  resolved "https://registry.yarnpkg.com/@types/node-telegram-bot-api/-/node-telegram-bot-api-0.51.3.tgz#178a70353e39910fc52e27501e43b0c7d5198874"
+  integrity sha512-7DvPH/s2x7azwbhGSaMhd3kOthjOnrFEj27GHdf+ghk9wf2vc62NkFFEiyN1eFjseZWU1esoneEk14sBavEm/w==
   dependencies:
     "@types/node" "*"
     "@types/request" "*"
