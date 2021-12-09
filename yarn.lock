@@ -859,10 +859,10 @@ ms@^2.1.1:
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
   integrity sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==
 
-node-telegram-bot-api@^0.54.0:
-  version "0.54.0"
-  resolved "https://registry.yarnpkg.com/node-telegram-bot-api/-/node-telegram-bot-api-0.54.0.tgz#1a857ddeb2f523d81c8e10a1b70169c7cf069ff5"
-  integrity sha512-ckrpY/ABFLwA1DUzEc9iEQtsgQs8WcGC6m7iJ1bbnH+c7EOLnMdCfw+hUesyfuwOfAkkECYFxvoW4lJNy+Oztw==
+node-telegram-bot-api@^0.55.0:
+  version "0.55.0"
+  resolved "https://registry.yarnpkg.com/node-telegram-bot-api/-/node-telegram-bot-api-0.55.0.tgz#1e357b3aac2e0bd7a0a68c958b55d888178aef57"
+  integrity sha512-yn89yuJZr/MMCRNNJ3q2FCvrczfWC+hS/cj9pcY0CfQTJ+I/2jlcbsgXeV6EvVYUTjvqTxTG1lq+J9InRRjUow==
   dependencies:
     array.prototype.findindex "^2.0.2"
     bl "^1.2.3"
