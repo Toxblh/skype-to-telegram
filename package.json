@@ -5,9 +5,9 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "node-telegram-bot-api": "^0.55.0",
+    "node-telegram-bot-api": "^0.56.0",
     "skype-http-api": "^0.0.1",
-    "typescript": "^4.5.2"
+    "typescript": "^4.5.3"
   },
   "scripts": {
     "build": "tsc",
