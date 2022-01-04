@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@types/dotenv": "^8.2.0",
-    "@types/node-telegram-bot-api": "^0.53.4",
+    "@types/node-telegram-bot-api": "^0.53.5",
     "tslint": "^6.1.3"
   }
 }
