@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^10.0.0",
+    "dotenv": "^11.0.0",
     "node-telegram-bot-api": "^0.56.0",
     "skype-http-api": "^0.0.1",
     "typescript": "^4.5.4"
